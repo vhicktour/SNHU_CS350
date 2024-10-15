@@ -1,0 +1,7 @@
+"./gpiointerrupt.o"
+"./syscfg/ti_drivers_config.o"
+"./main_nortos.o"
+"../cc32xxs_nortos.cmd"
+-lti_utils_build_linker.cmd.genlibs
+-l"ti/devices/cc32xx/driverlib/ticlang/Release/driverlib.a"
+-llibc.a
