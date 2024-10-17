@@ -1,8 +1,8 @@
-Smart Thermostat Prototype
+# Smart Thermostat Prototype
 
 This repository contains the culmination of work from the CS350 course: Emerging System Architecture and Technology (Embedded Systems).
 
-Project Overview
+## Project Overview
 
 The project focuses on developing a prototype for a smart thermostat using the Texas Instruments CC3220S Launchpad. The goal was to create a device that:
 
